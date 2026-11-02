@@ -1,5 +1,2 @@
-WanderWay Travel - links used
-
-Travel photos: https://unsplash.com/
-HTML reference: https://www.w3schools.com/html/
-CSS reference: https://www.w3schools.com/css/
+https://prachivyas0203.github.io/webdev-assignments/html-css/
+https://github.com/prachivyas0203/webdev-assignments/tree/main/html-css
