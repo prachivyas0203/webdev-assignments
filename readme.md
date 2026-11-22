@@ -55,7 +55,7 @@ _This list is updated automatically by the Metropolia ICT extension._
 - 10. Voting: ✔ completed, 8/8 test points (`js-3/assignment-10/assignment-10.js`)
 - 11. Publish, push and submit your links: ◐ partially completed, 0.25/3 test points
 
-### JS module 4: DOM and events (15 / 35 points)
+### JS module 4: DOM and events (15.25 / 35 points)
 
 - 1. Add a list with innerHTML: ✔ completed, 2/2 test points (`js-4/t1/1.js`)
 - 2. Add a list with createElement(): ✔ completed, 2/2 test points (`js-4/t2/2.js`)
@@ -68,5 +68,12 @@ _This list is updated automatically by the Metropolia ICT extension._
 - 9. Calculator with one field: ✘ not completed yet, 0/4 test points (`js-4/t9/9.js`)
 - 10. Read a form: ✔ completed, 2/2 test points (`js-4/t10/10.js`)
 - 11. Picture cards with a modal: ◐ partially completed, 2/6 test points (`js-4/t11/11.js`)
+- 12. Publish, push and submit your links: ◐ partially completed, 0.25/3 test points
+
+### Python Flask server (20 / 20 points)
+
+- 1. Prime number service: ✔ completed, 1/1 test points (`flask/`)
+- 2. English-Finnish dictionary: ✔ completed, 1/1 test points (`flask/`)
+- 3. Add words to the dictionary: ✔ completed, 1/1 test points (`flask/`)
 
 <!-- metropolia:progress:end -->
